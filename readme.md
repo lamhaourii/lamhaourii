@@ -1,7 +1,6 @@
 <div align="center"> <!-- Custom Typewriter Banner --> <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20friend!%20👨‍💻&width=900&height=100" 
      alt="Typewriter Banner" 
-     style="width:100%; max-width:900px; height:auto;"/> <br/> <!-- Typing Animation - Matching Colors --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Training;Deep+Learning+%7C+NLP+%7C+LLMs;Turning+Ideas+into+AI+Solutions" alt="Typing SVG" /> </a>
-<br/><br/>
+     style="width:100%; max-width:900px; height:auto;"/> 
 </div>
 
 ----------
