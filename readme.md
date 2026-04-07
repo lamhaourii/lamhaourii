@@ -28,7 +28,7 @@ class MohamedLamhaouri(AIEngineer):
         self.name = "Mohamed Lamhaouri"
         self.role = "AI Engineering Student"
         self.school = "ENSIAS"
-        self.location = "Morocco 🇲🇦"
+        self.location = "Morocco"
         self.education = "Studying AI & Machine Learning"
         self.languages = ["Python", "C", "Java"]
         self.current_focus_area = "Deep Learning & NLP"
