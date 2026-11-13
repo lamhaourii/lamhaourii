@@ -1,10 +1,10 @@
 ```bash
-┌──(lamhaourii@ensias)-[~]
+┌──(lamhaourii@node)-[~]
 └─$ ./hello_friend.sh
 
        /\_/\          "hello friend."
       ( o.o )         ---------------
-       > ^ <          host    : ensias-ai-node
+       > ^ <          host    : ai-workstation
       /     \         kernel  : linux-arch
      (       )        status  : online & shipping
       |  |  |         message : grab a coffee and look around
@@ -48,20 +48,19 @@ class MohamedLamhaouri(AIEngineer):
     def __init__(self):
         self.name = "Mohamed Lamhaouri"
         self.role = "AI & MLOps Engineer"
-        self.school = "ENSIAS"
-        self.degree = "State Engineering Degree in Artificial Intelligence"
         self.location = "Rabat, Morocco 🇲🇦"
         self.languages = ["Python", "SQL"]
         self.core_focus = [
-            "Production MLOps & LLMOps",
-            "Agentic AI & LangGraph Workflows",
+            "Production MLOps & Distributed Pipelines",
+            "Agentic AI & Multi-Agent Workflows (LangGraph)",
             "Fine-Tuning (PEFT / LoRA) & High-Throughput Serving (vLLM)",
         ]
+        self.infrastructure = ["Kubernetes (GKE)", "Terraform", "Docker", "MLflow"]
 
     def introduce(self):
         print(f"Hello! I'm {self.name}, an {self.role} based in {self.location}.")
-        print(f"Studying at {self.school} ({self.degree}).")
         print(f"Core Focus: {', '.join(self.core_focus)}.")
+        print(f"Infrastructure: {', '.join(self.infrastructure)}.")
         print(f"Languages: {', '.join(self.languages)}.")
 
 me = MohamedLamhaouri()
@@ -102,7 +101,7 @@ me.introduce()
 ----------
 
 ```bash
-┌──(lamhaourii@ensias)-[~]
+┌──(lamhaourii@node)-[~]
 └─$ ./exit.sh --say "thanks for visiting!"
 
  [✓] Status:  200 OK
