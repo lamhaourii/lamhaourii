@@ -1,9 +1,17 @@
+```bash
+┌──(lamhaourii@ensias)-[~]
+└─$ ./hello_friend.sh
+
+       /\_/\          "hello friend."
+      ( o.o )         ---------------
+       > ^ <          host    : ensias-ai-node
+      /     \         kernel  : linux-arch
+     (       )        status  : online & shipping
+      |  |  |         message : grab a coffee and look around
+      (__|__)
+```
+
 <div align="center">
-  <!-- Custom Typewriter Banner -->
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20friend!%20👨‍💻&width=900&height=100" 
-       alt="Typewriter Banner" 
-       style="width:100%; max-width:900px; height:auto;"/>
-  <br/>
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <picture>
@@ -12,7 +20,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%26+MLOps+Engineer;LLMOps+%7C+Agentic+AI+%7C+Production+ML;Turning+Ideas+into+AI+Solutions" alt="Typing SVG" />
     </picture>
   </a>
-  <br/><br/>
 </div>
 
 ----------
@@ -94,8 +101,11 @@ me.introduce()
 
 ----------
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Thanks%20for%20Visiting!%20&width=800&height=100" 
-       alt="Closing Banner" 
-       style="width:100%; max-width:800px; height:auto;"/>
-</div>
+```bash
+┌──(lamhaourii@ensias)-[~]
+└─$ ./exit.sh --say "thanks for visiting!"
+
+ [✓] Status:  200 OK
+ [✓] Message: Thanks for stopping by! Open to collaborations.
+ [✓] Exit:    Connection closed.
+```
